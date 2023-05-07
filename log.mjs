@@ -1,3 +1,3 @@
 export function log(mensagem) {
-    console.log('Adicionando log via função', mensagem)
+    console.log('Olá Rodrigo, adicionando log via função', mensagem)
 }
